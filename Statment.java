@@ -3,7 +3,7 @@ public class Statment {
             int num=-5;
             if(num==0)
             System.out.println("it is zero");
-            else if(num>0)
+            else if(num>10)
             System.out.println(num+"is positive");
             else 
             System.out.println(num+"is negative");
