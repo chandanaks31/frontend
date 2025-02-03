@@ -2,7 +2,7 @@ class Num{
     public static void main(String[] args) {
         int main(){
             int size=5;
-            int Num=1;
+            int Num=2;
             for(int i=1;i<=size;i++)
             for(int j=size;j>1;j--){
                 count<<" ";
